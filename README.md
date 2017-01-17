@@ -1,3 +1,5 @@
+(Forked for stability and to avoid removing proxy as we use our own.)
+
 Random proxy middleware for Scrapy (http://scrapy.org/)
 =======================================================
 
